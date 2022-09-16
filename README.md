@@ -30,3 +30,7 @@ snyk code:
     reports:
       sast: snyk-gl-code-scanning.json
 ```
+
+# GitLab Results
+Results from scanning of [OWASP WebGoat](https://github.com/WebGoat/WebGoat)
+![Vulnerability Report](./owasp_results.png)
